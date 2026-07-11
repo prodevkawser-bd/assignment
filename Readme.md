@@ -1,1 +1,4 @@
 Write HTML and CSS code for a beautiful 'Sponsors' section for a tech event. Do not use Bootstrap or JavaScript. The design should be clean, centered, and show sponsor logos in a grid.
+
+github repo link: https://github.com/prodevkawser-bd/assignment
+web page link: https://prodevkawser-bd.github.io/assignment/
