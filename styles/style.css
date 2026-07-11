@@ -54,3 +54,48 @@ body {
     font-size: 15px;
     font-weight: 600;
 }
+/* --- hero section --- */
+.hero-section {
+    position: relative;
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../images/banner.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-title {
+    font-size: 4.5rem;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 24px;
+    line-height: 1.1;
+}
+
+.hero-title em {
+    font-style: italic;
+    font-weight: 800;
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    color: #e2e8f0;
+    max-width: 720px;
+    margin: 0 auto 40px auto;
+    line-height: 1.5;
+}
+
+.btn-register-large {
+    background-color: #2563eb;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 16px 45px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+}
