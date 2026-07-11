@@ -294,3 +294,46 @@ body {
     border: 1px solid #0b132a;
     color: #0b132a;
 }
+/* --- ai challenge section --- */
+.sponsors-section {
+    background-color: #f8fafc;
+    padding: 80px 8%;
+    text-align: center;
+    border-top: 1px solid #e2e8f0;
+}
+
+.sponsors-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.sponsors-subtitle {
+    color: #64748b;
+    margin-bottom: 40px;
+}
+
+.sponsors-tier h3 {
+    font-size: 1.2rem;
+    color: #94a3b8;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.sponsors-grid-ai {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.sponsor-logo-box {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 25px 50px;
+    border-radius: 12px;
+    font-weight: 700;
+    color: #334155;
+    font-size: 1.3rem;
+}
